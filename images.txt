@@ -7,3 +7,5 @@ xhofe/alist:latest
 python:alpine3.19
 ahmedsamy1994/mac:latest
 xiaoyaliu/alist:latest
+mysql:latest
+mysql:lts-oracle
