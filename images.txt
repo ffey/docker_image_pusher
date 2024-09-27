@@ -10,3 +10,5 @@ xiaoyaliu/alist:latest
 mysql:latest
 mysql:lts-oracle
 openjdk
+centos:centos7.6.1810
+node
