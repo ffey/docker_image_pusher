@@ -9,4 +9,4 @@ ahmedsamy1994/mac:latest
 xiaoyaliu/alist:latest
 mysql:latest
 mysql:lts-oracle
-nginx:latest
+openjdk
