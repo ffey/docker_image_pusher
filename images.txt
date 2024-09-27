@@ -12,3 +12,4 @@ mysql:lts-oracle
 openjdk
 centos:centos7.6.1810
 node
+--platform=linux/amd64 ubuntu:latest
